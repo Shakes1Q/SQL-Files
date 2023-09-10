@@ -1,2 +1,2 @@
 # SQL-Files
-Awesome chocolates file was used with PowerBI
+Awesome chocolates file was connected to PowerBI
